@@ -1,0 +1,573 @@
+[
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8d9" },
+    "title": "Perfect apartment in the city center of Stockholm",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Own apartment in the city center of Stockholm within walking distance to the central station. The apartment features an entrance hall, living room with bed in the corner, an equipped kitchen and a bathroom.  The apartment is located on a calm street with only 150 meters away from the popular street Sveavägen where restaurants, shopping, bars and restaurants can be found as well as the metro station.",
+    "guestAccess":
+      "As a guest here you will be given access to the full apartment and everything in it as well as the common areas community has to offer such as the roof terrace.",
+    "price": 406,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/45200812-c16d-43bf-9149-92353ae9a50d.webp",
+    "owner": { "$oid": "5a15aae7b8d42a34409c2488" },
+    "address": {
+      "country": "Sweden",
+      "city": "Stockholm",
+      "street": "Sveavägen",
+      "number": "113",
+      "lat": "59.342705",
+      "lng": "18.056790"
+    },
+    "theSpace": {
+      "description":
+        "New apartment located very central in the heart of stockholm with good transportation possibilities. The apartment features an entrance hall, bathroom with shower, living room with a private corner for the bed and as a fully equipped kitchen.",
+      "guests": 4,
+      "beds": 3,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8da" },
+    "title": "Stylish house close to river thames",
+    "type": "Private room in house",
+    "generalDesc":
+      "Lovely warm comfortable and stylishly furnished house. Private bedroom and bathroom with shared living areas.",
+    "guestAccess":
+      "You will have free Wi-fi access. Towels and bed linen supplied and the bathroom has shower gel and shampoo to save on your packing.  Please note: Weekday check-in needs to be from 6pm onwards as I work full time in Central London, however Check out is very flexible and if you have late departure I am happy for you to leave bags until a later pick up.  My home is an ideal base for a single person or couple looking to enjoy and explore London, and all the sites and attractions it has to offer!  I love living in this wonderful city and I'm sure you will too!",
+    "price": 312,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/896b30c2_original.webp",
+    "owner": { "$oid": "5a15b18eb8d42a34409c2493" },
+    "address": {
+      "country": "United Kingdom",
+      "city": "London",
+      "street": "Colwith Rd",
+      "number": "64",
+      "lat": "51.485501",
+      "lng": " -0.222826"
+    },
+    "theSpace": {
+      "description":
+        "Lovely warm comfortable and stylishly furnished house. Private bedroom and bathroom with shared living areas.  The space  Double and single bedroom in lovely house are available in Baron's Court.  Walking distance to river thames at Hammersmith with great traditional English pubs, theatre and restaurants.  The Tube station is a short 7 minutes walk away, 16 minutes by tube to Piccadilly Circus (Westend/Soho) 8-10 minutes to Knightsbridge (Harrods) and Hyde Park.  There are excellent transport links and direct tubes from Heathrow airport (Piccadilly line) Perfect for an extended holiday or for someone away on business needing a place to stay while away from home.  My home is a Classic Victorian terrace house,situated in a quiet location.  Use of communal areas, Patio garden, eat in kitchen and comfortable living room. Light breakfast provided.",
+      "guests": 3,
+      "beds": 2,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8db" },
+    "title": "Lovely studio near the Louvre!",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Lovely studio for 2 people located at Palais Royal, in the heart of Paris. Entirely renovated, fully equiped, at 2 min from the Louvre and 8 min from the Opera. Really active and beautiful neighborhood with shops, restaurants and theaters. translated by Google Lovely studio for 2 people located at Palais Royal, in the heart of Paris. Entirely renovated, fully equiped, at 2 min from the Louvre and 8 min from the Opera. Really active and beautiful neighborhood with shops, restaurants and theaters.",
+    "guestAccess":
+      "The entire place. 3 drawers will be available for you to store your things",
+    "price": 406,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/77d0afc8_original.jpg",
+    "owner": { "$oid": "5a15b4f8b8d42a34409c2494" },
+    "address": {
+      "country": "France",
+      "city": "Paris",
+      "street": "Rue de Richelieu",
+      "number": "65",
+      "lat": "48.867516 ",
+      "lng": " 2.337772"
+    },
+    "theSpace": {
+      "description":
+        "Fully equiped and renovated, perfectly located to discover Paris as most of the touristic places can be reached by foot. Very safe neighborhood. Cosy and nicely decorated you will spend a great stay ! Fully equiped kitchen, bathroom with a shower and toilets, a sofa that turns into a bed (160 cm wide and very comfortable.  L'appartement a été refait il y a 1 an et décoré avec soin. Il est doté d'une cuisine entièrement équipée avec un bar pour prendre vos repas, d'une salle de bain avec lavabo, WC et douche, et la pièce principale avec un canapé lit très facile à ouvrir et très confortable. Le quartier est parfait pour rayonner à pieds dans Paris, et l'appartement se trouve à 3 minutes à pieds du métro et du musée du Louvre.",
+      "guests": 2,
+      "beds": 1,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8dc" },
+    "title": "Dolphin Views beach apartment",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Located in Bloubergstrand, this modern, romantic and newly upgraded apartment features magnificent sea and mountain views from all living areas. Store your sporting equipment, visit town, eat out in the Waterfront, hike up Table Mountain, frequent wine farms. This safe, REAL beach front home is across the world famous kite boarding and surfing beach. Loads of restaurants close by - allow the crushing waves to sooth your stress away. Centrally located to all amenities, restaurants and clubs.",
+    "guestAccess":
+      "Full use of entire apartment. Choice of two security accessed, underground parking bays and your own storeroom. 1GB wireless data per stay.",
+    "price": 323,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/fdfdf333-b244-461a-8242-82f158f79dd6.webp",
+    "owner": { "$oid": "5a15e6acb8d42a34409c2497" },
+    "address": {
+      "country": "South Africa",
+      "city": "Cape Town",
+      "street": " Beach Blvd",
+      "number": "26",
+      "lat": "-33.819510",
+      "lng": "18.475414"
+    },
+    "theSpace": {
+      "description":
+        "This location, with it's breathtaking ocean and mountain views is a peaceful gem in the center of the buzz that Bloubergstrand brings on a hot, summer day. The spacious, white-and-bright apartment with modern finishes is the perfect home away from home.  We are flexible to make your stay unique. For babies we can provide a cot, we can join the two single beds to make a double bed, etc. Just ask!  Fully fitted, ideal for romantic couples, honeymoons, families and longer term stays.",
+      "guests": 4,
+      "beds": 3,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8dd" },
+    "title": "22nd floor right in front of Mueller Mall -Welcome",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Marvelous apartment, at the 22nd floor, right in front of Mueller Mall, with a great, beautiful and paradisiac view of \"serra do mar\", with amazing mountains. Type on (SENSITIVE CONTENTS HIDDEN): \"serra do mar paranaense\" and you will see what I am talking about. Very close to \"passeio Público\". Very close to dezenove de Dezembro square, 15 de Novembro Street, theater Guaíra, etc. All the turistic points you can get from this apartment very easily. Turistic bus station: 50 meters from the flat. NO SMOKING.",
+    "guestAccess":
+      "all, but some of them, needs extra tax, like the cinema, and the men´s cave, for example.",
+    "price": 134,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/6792836f-503f-4749-b888-6df7af989e11.webp",
+    "owner": { "$oid": "5a15e848b8d42a34409c2498" },
+    "address": {
+      "country": "Brazil",
+      "city": "Curitiba",
+      "street": "Rua Barão de Antonina ",
+      "number": "275",
+      "lat": "-25.422137",
+      "lng": "-49.272011"
+    },
+    "theSpace": {
+      "description":
+        "You will have all the things to get a great experience at the place. Conditioned Air, Cable and smart TV, new furniture, new building, pool, jacuzzi, Cinema, car park, gym, men´s cave, shopping mall right in front of the building, etc.",
+      "guests": 5,
+      "beds": 3,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8de" },
+    "title": "#1 AMAZING Condo in DOWNTOWN Montreal -Heated Pool",
+    "type": "Entire condominium",
+    "generalDesc":
+      "You will have access to the Indoor/ourdoor heated pool and hot tub, Right in the heart of downtown Montreal in a new, modern building. Enjoy 600 sq ft of space with a 1 bedroom, quiet courtyard-facing balcony, gym, pool and steam room downstairs, rooftop pool \u0026 BBQ area during summer months.  **HEATED POOL and HOT TUBS ARE NOW OPEN FOR THE WINTER PERIOD** **NETFLIX AVAILABLE!!**",
+    "guestAccess":
+      "Key fob entry system.  A gym is located in the building with multitude of equipment, complete with washrooms and showers.  There is a common room in tower 3 of the complex where great views of the city can be had from the 20th floor. Also in T3 is a game room on floor 2 and an outdoor terrace off of the 8th, equipped with elliptical exercise machines and foosball tables.  The gym, sauna, steam room and lap pool are downstairs, outside across from the lobby side doors.",
+    "price": 289,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/d61ede04-0e97-4eca-bb99-e25c1aa3da6d.webp",
+    "owner": { "$oid": "5a15ea53b8d42a34409c2499" },
+    "address": {
+      "country": "Canada",
+      "city": "Montréal",
+      "street": "  Rue du Fort , ",
+      "number": "5",
+      "lat": "45.493193",
+      "lng": "-73.583789"
+    },
+    "theSpace": {
+      "description":
+        "Perfectly located on the very famous St-Catherine street in the heart of the city, this brand new and luxury studio of a style building is luminous, very pleasant, safe, quiet and clean.  Modern furnishing, 1 bedroom with a queen size bed, open kitchen and a bathroom. Washer and dryer in the studio. Small balcony. Gym in the building.  At the corner of St Catherine street with all the stores, boutiques, cafés, bars and restaurants you can imagine. 2 minute walk from Montreal most famous Museum: Montreal Museum of Fine Arts, Apple Store, Starbucks, Zara, etc.  Walking distance from 2 metro stations and buses stations.  Close from Bell Centre.",
+      "guests": 2,
+      "beds": 1,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8df" },
+    "title": "Superbe villa de charme à Saly",
+    "type": "Entire vacation home",
+    "generalDesc":
+      "Superbe maison type Sénégalais complètement restaurée en 2013/2015 sur terrain entièrement clos avec piscine privée attenante à une grande terrasse centre de vie,immense solarium au dessus de toute la maison.L'ensemble dans une résidence close ,tranquille,gardée jour et nuit,à 250m de la mer et des commerces du centre ville.",
+    "guestAccess":
+      "Tout le logement ,le jardin,la terrasse et la garage sont à disposition.",
+    "price": 244,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/365ce9b3-021c-4cad-9b84-ac0f724922c2.webp",
+    "owner": { "$oid": "59e0725aca0672063818a2d3" },
+    "address": {
+      "country": "Senegal",
+      "city": "M'bour",
+      "street": "Route de Saly",
+      "number": "56",
+      "lat": "14.441870",
+      "lng": " -17.014262"
+    },
+    "theSpace": {
+      "description":
+        "Cuisine et salles de bain avec les commodités à l'européenne.Air conditionné dans toutes les pièces,wifi et télévision.Parking privé.Jardin et piscine entretenus quotidiennement par un jardinier privé.Grande piscine commune dans la résidence.Electricité selon consommation.Eau et gaz gratuit.Possibilité femme de ménage cuisinière.",
+      "guests": 6,
+      "beds": 4,
+      "bedrooms": 3
+    }
+  },
+  {
+    "_id": { "$oid": "59e1d5a57367bc2ddcfee8e0" },
+    "title": "Exquisite Cottage in Kenyan Tea Country",
+    "type": "Entire guesthouse",
+    "generalDesc":
+      "This exquisite cottage/loft is an idyllic hideaway for whose wishing to escape the stresses of modern day life. Located about 38 kilometres from Nairobi in Tigoni, the cottage rests in an area that is 7,500 feet (2286 meters) above sea level; where the air is cool and refreshing. This makes the surroundings the utmost in tranquil and serene locations, which is shared by an abundance of wildlife including birds and monkeys (Sykes and Colobus). The property itself has a view to savor.",
+    "guestAccess": "",
+    "price": 189,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/c2e72113-b353-45ad-a40b-d8caa5592610.webp",
+    "owner": { "$oid": "59e0725aca0672063818a2d2" },
+    "address": {
+      "country": "Kenya",
+      "city": "Limuru",
+      "street": "Kimuchu Rd",
+      "number": "44",
+      "lat": "-1.109158",
+      "lng": "36.643004"
+    },
+    "theSpace": { "description": "", "guests": 4, "beds": 2, "bedrooms": 2 }
+  },
+  {
+    "_id": { "$oid": "5a157fafb8d42a34409c2481" },
+    "title": "Penthouse room on the seafront in Edinburgh",
+    "type": "Private room in apartment",
+    "generalDesc":
+      "Lovely, bright, quiet room on the top floor of a modern apartment block on the seafront in Granton Harbour 3 miles north of the centre of the city. Well connected by buses and walking routes, free parking, magnificent views. Continental breakfast included and free wifi",
+    "guestAccess":
+      "Guests have access to the kitchen at all times. Make yourselves at home. Tea and coffee is always available and you can cook your own food here in the evening if you so wish.",
+    "price": 145,
+    "currency": "USD",
+    "amenities": [
+      "Elevator",
+      "Free parking on premises",
+      "Internet",
+      "Family/kid friendly",
+      "Hair dryer",
+      "TV",
+      "Laptop friendly workspace",
+      "Iron",
+      "Buzzer/wireless intercom",
+      "Essentials",
+      "Shampoo",
+      "Washer",
+      "Hangers",
+      "Heating",
+      "Private living room",
+      "Wheelchair accessible",
+      "Kitchen",
+      "Wireless Internet",
+      "Breakfast"
+    ],
+    "imageUrl": "/images/jumbo/ea4a0fc3_original.jpg",
+    "owner": { "$oid": "5a15856db8d42a34409c2483" },
+    "address": {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "street": "Lochinvar Dr",
+      "number": "3",
+      "lat": "55.981714",
+      "lng": "-3.223822"
+    },
+    "theSpace": {
+      "description":
+        "Lovely big room (Approx 17' x 11') with private balcony in top floor penthouse with superb views overlooking the Forth.  The apartment is the only flat on the top floor of the building. It is modern build, completed in 2011, with three bedrooms, two bathrooms and an open plan lounge kitchen diner. The apartment is well insulated, double glazed and cosy and warm even when the weather is terrible.  Free Wifi.  The room comes with reading lamp, LED television, fitted wardrobe, armchair, hair dryer and free wifi. Underfloor heating with individual temperature controls in each room. The bathroom is directly outside the room with shaver point and over the bath shower. Towels and breakfast supplied - the bathroom is not exclusive use as it is shared between two bedrooms so you would only have exclusive use if there is no guest in the other room. Let us know if you have any dietary requirements and we will try to cater accordingly. The lounge is very comfortable with large screen TV, dining table, open plan kitchen and wraparound balcony with further panoramic views of the Firth of Forth and North Sea.  Outside dining is possible in fine conditions (see pic)  The apartment is in a quiet part of Edinburgh, three miles from the city centre. There is ample free parking outside and buses run regularly into the city from a bus stop two minutes walk away. There are lots of walks in the area and beautiful beaches and parkland to explore just a few minutes away. We moved here from the city centre and love the peace and tranquility. There are supermarkets and shops about 10 minutes walk away or two minutes by car as well as a variety of take-away food outlets. Restaurants and pubs are slightly further afield with a massive selection available the nearer you get to the city centre. Other nearby attractions include the Royal Botanic Gardens, Royal Yacht Britannia, Cramond Island, Ocean Terminal, Old Town and New Town World Heritage Sites.  Buses run from right outside the apartment. The 47 goes to the city centre in about 20 minutes and through the West End to the south of the city. The 24 runs on Sundays to the City Centre. Other buses run from a stop 5 minutes walk away at Granton Square and go all over the city. Bus fares are £1.60 for a single journey or £4 for a day pass on all Lothian buses. Exact fare only - no change given. Lothian buses website is a great resource and the Transport for Edinburgh app for iphone and android provides bus arrival and departure information from your local bus stop in real time, sells tickets and allows you to use your phone as your bus ticket.  Edinburgh is fantastic for getting around on bikes. Sustrans has a great website and maps of all the dedicated bike routes.  On the whole Edinburgh is a very safe city and there are no unsafe areas. That said it is sensible to take the usual precautions when out alone particularly at night or when withdrawing cash from ATMs.  The apartment makes a great base for exploring the rest of Scotland. Oban and Fort William can be reached by car in approximately 3 hours and Inverness and Loch Ness in about 4 hours.  Scottish money is interchangeable with Bank of England money - all notes are accepted everywhere in Scotland. It is very unusual for Scottish money not to be accepted in England although this can occasionally happen.  This apartment is a fantastic place to stay in the City of Edinburgh and still feel the freedom of the outdoors and freshness of the sea air. We hope you will enjoy your visit. Dan and Alex. LGBT friendly and all are welcome here.  Guest access  Guests have access to the kitchen at all times. Make yourselves at home. Tea and coffee is always available and you can cook your own food here in the evening if you so wish.",
+      "guests": "2",
+      "beds": "1",
+      "bedrooms": "1"
+    }
+  },
+  {
+    "_id": { "$oid": "5a242ef6f8a6e01fc041db82" },
+    "title": "Special Casita sea view",
+    "type": "Entire guesthouse",
+    "generalDesc":
+      "The house: the triangle house is full of energy, beauty and conveniences. From the terrace you can see the Atlantic Ocean and on clear days, the islands of Gomera and Tenerife.  And besides, COMMUNES AREAS, with swimminpool with salt, hot tube for six people, gardens, big terrace with lovely view to Tenerife and La Gomera, cross the Atlantic.",
+    "guestAccess":
+      "And besides, COMMUNES AREAS, with swimminpool with salt, hot tube for six people, gardens, big terrace with lovely view to Tenerife and La Gomera, cross the Atlantic. We offert ecologic vegetables and fresh eggs, when we have. Our rooster is called Enrique, Quique for friends. and he is wishing to meet you.",
+    "price": 276,
+    "currency": "USD",
+    "amenities": [
+      "Elevator",
+      "Free parking on premises",
+      "Internet",
+      "Family/kid friendly",
+      "Hair dryer",
+      "TV",
+      "Laptop friendly workspace",
+      "Iron",
+      "Buzzer/wireless intercom",
+      "Essentials",
+      "Shampoo",
+      "Washer",
+      "Hangers",
+      "Heating",
+      "Private living room",
+      "Wheelchair accessible",
+      "Kitchen",
+      "Wireless Internet",
+      "Breakfast"
+    ],
+    "imageUrl": "/images/jumbo/1f71a169-e25b-41b5-98b0-c213f9975116.webp",
+    "owner": { "$oid": "5a15856db8d42a34409c2483" },
+    "address": {
+      "country": "United Kingdom",
+      "city": "Villa de Mazo",
+      "street": "Lodero",
+      "number": "15",
+      "lat": "28.621641",
+      "lng": "-17.773542"
+    },
+    "theSpace": {
+      "description":
+        "The apartment: it is beautiful, convenient, clean, comfortable and has a good view. And besides, COMMUNES AREAS, with swimminpool with salt, hot tube for six people, gardens, big terrace with lovely view to Tenerife and La Gomera, cross the Atlantic. It is a quiet place where Elena, I, the owner, lives in the same building, but each apartment has its own privacy. But I'm always happy for my guests there, whatever you need, so that they have a pleasant stay. It does not have many neighbors in the area and it is a great way to get to know the island to have a car or to take the bus, it has a bus stop nearby. The best thing is the view over the Atlantic, on a clear day you can see the islands of La Gomera and Tenerife with the Teide. The weather is almost all year round pleasant. Finally, I urge you to get to know the island of La Palma, because it's worth. It is a mountainous island, green and even with plenty of water. Its black lava beaches provide a lot of energy. Its inhabitants are friendly and loving ..., the ideal place to escape from daily stress.",
+      "guests": "3",
+      "beds": "1",
+      "bedrooms": "1"
+    }
+  },
+  {
+    "_id": { "$oid": "5a243f70f8a6e01fc041db83" },
+    "title": "Free wifi/pool/breakfast 2bed2bath apt",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Please make sure to read all items and rules of the house to avoid unwanted reservations. Most of the basic information is bellow, for doubts you may contact us by message.  Fully furnished modern CBD 2bedroom2bathroom apartment with fantastic views over Carlton Garden. 5minute walk to Melbourne Central, Carlton Garden, State Library and QV centre.  Breakfast is included for more than two nights stay.",
+    "guestAccess":
+      "Sky gym(level 31) Outdoor Swimming Pool(level 4) Sun Terrace, Rock Garden and Residents Lounge.",
+    "price": 477,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/d3548a83-b77e-41fe-ae36-86e06f6dfb73.webp",
+    "owner": { "$oid": "59e0725aca0672063818a2d2" },
+    "address": {
+      "country": "Australia",
+      "city": "Melbourne",
+      "street": "La Trobe St",
+      "number": "123",
+      "lat": "-37.808510",
+      "lng": "144.967292"
+    },
+    "theSpace": {
+      "description":
+        "Fully equipped - Oven - Fridge - Dishes \u0026 cutlery - Cooking utensils - Dish washer \u0026 detergents - Laundry unit \u0026 detergents - Iron \u0026 ironing board  - Vacuum, mop, dustpan \u0026 broom  - Proper Queen sized bed + Proper Double sized bed!!! -Inflatable queen sized airbed!!! - Double Sofa bed couch(sleep 1-2) !!! -Body wash, shampoo, hair conditioner and towels are provided (BYO moisturiser, tooth brush and tooth paste please.)",
+      "guests": 6,
+      "beds": 3,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": { "$oid": "5a2444d2f8a6e01fc041db84" },
+    "title": "Bright Studio in Wynwood",
+    "type": "Studio",
+    "generalDesc":
+      "At this Sonder, you'll love the stunning wallpaper, modern kitchen, and sleek bathroom. Located in one of Miami's best neighborhoods.",
+    "guestAccess": "",
+    "price": 355,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/a37cd239-9ab9-4e58-9421-4a3445982f08.webp",
+    "owner": { "$oid": "5a15b18eb8d42a34409c2493" },
+    "address": {
+      "country": "United States",
+      "city": "Miami",
+      "street": "NW 29 St",
+      "number": "598",
+      "lat": "25.803725",
+      "lng": "-80.203850"
+    },
+    "theSpace": {
+      "description":
+        "Every booking is instantly confirmed. Every call or message is answered within minutes. Every home is equipped with crisp linens, high-speed Wi-Fi, and kitchen and bath essentials—everything you need for an exceptional stay.",
+      "guests": 2,
+      "beds": 1,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "5a244879f8a6e01fc041db85" },
+    "title": "Luxury Apartment for rent in Caracas with security",
+    "type": "Entire apartment",
+    "generalDesc": "",
+    "guestAccess": "",
+    "price": 359,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/a25923a3-9672-4fd7-bf15-e0830caad3bb.webp",
+    "owner": { "$oid": "5a15aae7b8d42a34409c2488" },
+    "address": {
+      "country": "Venezuela",
+      "city": "Caracas",
+      "street": "Calle Madrid",
+      "number": "84",
+      "lat": "10.481350",
+      "lng": "-66.855202"
+    },
+    "theSpace": {
+      "description":
+        "The living room is very spacious. It has a balcony with a barbecue set up for those guest who enjoy cooking on the grill. It also has three Tvs in different rooms of the house with cable and two of them also with apple tv for those guest who enjoy the netflix series. The cable service that we offer is Directv.",
+      "guests": 2,
+      "beds": 2,
+      "bedrooms": 3
+    }
+  },
+  {
+    "_id": { "$oid": "5a244bf7f8a6e01fc041db86" },
+    "title": "Great Location in Las Condes",
+    "type": "Entire apartment",
+    "generalDesc":
+      "Spectacular views of city and mountains! Great apartment walking distance from the shopping mall Parque Arauco with high end shopping boutiques, fine dining, cinemas, and entertainment. Also located next to the Marriott Hotel, where one can find city tours and more touristic information.",
+    "guestAccess":
+      "Wifi in apartment. Building amenities include: Gym, Indoor/Outdoor Pool, BBQ area, Rooftop terrace, Sauna, Business Center, Home Theater, incredible roof top views",
+    "price": 477,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/926cd6b8-2d8b-4690-a235-eb4e82809ab0.webp",
+    "owner": { "$oid": "59e0725aca0672063818a2d2" },
+    "address": {
+      "country": "Chile",
+      "city": "Las Condes",
+      "street": "Rosario Nte",
+      "number": "549",
+      "lat": "-33.404426",
+      "lng": "-70.573087"
+    },
+    "theSpace": {
+      "description":
+        "Comfortable and private apartment with full access to building amenities. One bedroom, with full bathroom, full kitchen, living and dining area, cozy terrace, and gorgeous and city mountain views.",
+      "guests": 2,
+      "beds": 1,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "5a244d4ef8a6e01fc041db87" },
+    "title": "The Jodhpur Park Apartment",
+    "type": "Entire apartment",
+    "generalDesc":
+      "You’ll love my place because of the elegance. The apartment is bright, well lighted \u0026 airy. The interiors are colourful, yet understated. My place, located in a residential neighbourhood of South Kolkata, is good for couples, business travelers, families (with kids), and furry friends (pets).",
+    "guestAccess":
+      "The full apartment, no sharing with owners. Complete privacy, even for single women, with safety \u0026 security being given top most priority.",
+    "price": 223,
+    "currency": "USD",
+    "amenities": [
+      "Elevator",
+      "Free parking on premises",
+      "Internet",
+      "Family/kid friendly",
+      "Hair dryer",
+      "TV",
+      "Laptop friendly workspace",
+      "Iron",
+      "Buzzer/wireless intercom",
+      "Essentials",
+      "Shampoo",
+      "Washer",
+      "Hangers",
+      "Heating",
+      "Private living room",
+      "Wheelchair accessible",
+      "Kitchen",
+      "Wireless Internet",
+      "Breakfast"
+    ],
+    "imageUrl": "/images/jumbo/1d9601a7-84d7-4bf5-9fda-6d158e65eed9.webp",
+    "owner": { "$oid": "5a15856db8d42a34409c2483" },
+    "address": {
+      "country": "India",
+      "city": "Kolkata",
+      "street": "Rashim Ostagar Ln",
+      "number": "524",
+      "lat": "22.507938",
+      "lng": "88.363202"
+    },
+    "theSpace": {
+      "description":
+        "Mine is an 850sqft compact two bedroom apartment \u0026 I have stressed on setting up a home away from home, with all the amenities of a serviced including a guitar \u0026 a key board (on request). It is fully air-conditioned. You can relax after a hard day's work in the comfort of your own home.  Wifi is free.",
+      "guests": "5",
+      "beds": "5",
+      "bedrooms": "2"
+    }
+  },
+  {
+    "_id": { "$oid": "5a244e5ef8a6e01fc041db88" },
+    "title": "City 2 Bedroom Apartment with Gym in Wellington",
+    "type": "Entire apartment",
+    "generalDesc":
+      "This is a two room apartment with two comfortable double-beds. Full of sunshine and a great view over Wellington. Right on the city center, easy to walk to Cuba Street, Te Papa Museum and a lot of restaurants, cafes, and bars. you will save the money from bus or taxi if you live here. Our Building has a gym, swimming pool, sauna on the ground floor which you are allowed to use. Live in the city center is the best way to be a Wellingtoner!",
+    "guestAccess":
+      "The whole apartment, the gym, sauna, swimming pool at ground floor.",
+    "price": 320,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/d3da9153-010a-4d0a-9d25-391ea38edbc7.webp",
+    "owner": { "$oid": "5a15b18eb8d42a34409c2493" },
+    "address": {
+      "country": "New Zealand",
+      "city": "Wellington",
+      "street": "Taranaki St",
+      "number": "83",
+      "lat": "-41.294376",
+      "lng": " 174.777809"
+    },
+    "theSpace": {
+      "description":
+        "【 Cooking 】  Our kitchen includes  stove,  oven,  dishwasher, microwave,  fridge,  toaster.   【 Necessaries】  Shampoo Body wash Tooth Brush Cotton Tips(inside the mirror cabinet) Towels Heated towel rail Blow dryer (on the top of washing machine) Toilet Paper/Kitchen Paper/Tissues Coat Hanger   【Laundry】  Washing machine Clothes Dryer machine Iron Laundry powder   【Living \u0026 Work】  Unlimited Wifi  Cable TV Heater   【 Gym 】  Our building has a gym, swimming pool, sauna on ground floor which is close to the mail box.  Gym opening time: 24 hours Sauna \u0026 Swimming pool opening time: 5:30 am - 10:30 pm   【 From Airport 】  There's a bus that leaves the airport every 10 to 15 minutes throughout the day. Take the bus ($9) for about 30 minutes and you're at our place. Uber ($10- 15) is also a popular option in Wellington.  【 Parking 】  The apartment does not come with parking lot, but there are some public parking lots around.  Street parking is an option, it's free from 7:00 pm to 8:00 am.  Other options:  Camera Monitored Public Car Park—— 68 Taranaki Street. 0.5hour——$1.5 1hour——$3 early bird parking ——$14  max daily——$20 per night(7:00pm to 8:00am)——$5  Pay\u0026Display Car Park——21 Egmont Street Monday to Friday only available from 5:00 pm to 7:00 am  1hour——$2 5:00 pm to 7:00 am ——$5 Saturday 11:30am to Monday 7:00am (include Sunday) 1hour——$2 per 8 hours——$5  【 Check-in 】  Self-check in available  Or I can also meet and pick you if need",
+      "guests": 4,
+      "beds": 2,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": { "$oid": "5a244fc3f8a6e01fc041db89" },
+    "title": "One Block to Downtown Kona - Large Condo w Pool",
+    "type": "Entire condominium",
+    "generalDesc":
+      "This is a very nice one bedroom condo with over 730 ft.². The decor is colorful Hawaiiana and there is some great original artwork in the condo. It is about 1 block to town (within walking distance) and the lush greenery surrounding the complex is wonderful. The pool is great and the washer and dryer in the condo are really nice and convenient. There are also barbecues for your use near the pool. Beach towels are included and some snorkel gear.",
+    "guestAccess":
+      "This is a complete one bedroom condo with a community swimming pool just down the stairs.",
+    "price": 352,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/873a0db0-17e7-491f-9c0b-4e80fdafd282.webp",
+    "owner": { "$oid": "5a15aae7b8d42a34409c2488" },
+    "address": {
+      "country": "United States",
+      "city": "Kailua-Kona",
+      "street": "Palani Rd.",
+      "number": "16",
+      "lat": "19.641581",
+      "lng": "-155.996400"
+    },
+    "theSpace": {
+      "description":
+        "This beautifully appointed one-bedroom condo comes with everything you need to have a perfect Hawaii Island vacation. There are even beach towels, beach chairs, and snorkel gear provided for your use!",
+      "guests": 4,
+      "beds": 2,
+      "bedrooms": 1
+    }
+  },
+  {
+    "_id": { "$oid": "5a245126f8a6e01fc041db8a" },
+    "title": "Just off the main street",
+    "type": "Entire house",
+    "generalDesc": "",
+    "guestAccess":
+      "-Bedding and towels are washed every time a new guest comes in. They are sent to a professional cleaner's for a hotel-like, clean service.  -Kitchen is fully-equipped with a rice cooker, espresso machine, toaster, microwave, kettle, dishwasher, fridge/freezer, cookware, glassware, utensils and dishes.  -Bathroom includes a shower with clean towels, shampoo, conditioner, soap, and body wash. -All rooms are air-conditioned, and Wi-Fi is unlimited. -Outdoor events can be held in the garden (wine glasses, beer glasses, on the rocks, and teacups are available)",
+    "price": 538,
+    "currency": "USD",
+    "amenities": ["television", "laptop", "shower", "wifi"],
+    "imageUrl": "/images/jumbo/47fabf31_original.jpg",
+    "owner": { "$oid": "5a15b18eb8d42a34409c2493" },
+    "address": {
+      "country": "South Korea",
+      "city": "Seoul",
+      "street": "Samcheong-dong",
+      "number": "28",
+      "lat": "37.586682",
+      "lng": "126.984539"
+    },
+    "theSpace": {
+      "description":
+        "소현재 (召賢齋, So Hyun Jae) is located in one of the most exclusive areas of Seoul. Members of the royal family and aristocrats lived here during Joseon Dynasty. It retains the city's old appearance, so it has become a popular filming location for movies and TV dramas.  It's in the main street, and you don't have to walk uphill where most traditional houses are located. It's just 10 min walking to the two palaces- Gyeongbok Palace to the west and Changdeok palace to the east.  Transportation, subways, restaurants, shopping, and entertainment are near you. Restaurants, cafes, 24/7 convenience store, organic supermarket and galleries are 1 min away. Supermarket and bakery are 3 min away. Bus stop is 1 min away, subway station is 10 min away, and by taxi, you can get to most places at $3-8.",
+      "guests": 4,
+      "beds": 6,
+      "bedrooms": 2
+    }
+  }
+]

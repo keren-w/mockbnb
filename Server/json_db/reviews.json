@@ -1,0 +1,192 @@
+[
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585af5" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8dd" },
+    "userId": { "$oid": "59e0725aca0672063818a2cd" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "We travelled as a family with four children staying at this lovely Riad in September 2017. The driver that they arranged to meet us at the Casablanca airport was friendly and lovely but the drive is almost 3 hours and very boring (not much to see at all) so we chose to fly from Marrakech back to Casablanca to meet our European connecting flight in case this is an option for you. ",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585af6" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8dc" },
+    "userId": { "$oid": "59e0725aca0672063818a2d0" },
+    "title": { "$binary": "RGVjZW50IHBsYWNlIHRvIHNsZWVw", "$type": "00" },
+    "content":
+      "Leonardo is so sweet and the house his father built was beautiful! It is in a town that is a 30-45 minute train ride to Florence (Firenze Santa Maria Novella) that comes about every hour. It is a nice place to stay if you want to stay outside of Florence to avoid some of the crowds and just take the train in. Sometimes you need to switch trains to get into Firenze SMN, so it is best if you are more savy with trains or have (SENSITIVE CONTENTS HIDDEN) maps to know where to go. You can also take the train to Firenze SMN and go anywhere in Tuscany. We were able to park our car in the town for free and go into Florence for a couple of days which was perfect! Leonardo's house was a very nice place, it is just in a more modern town, so it didn't have the Tuscan views I was expecting. I would still recommend staying here though as a jumping off point to getting around Tuscany.",
+    "rating": 4,
+    "date": { "$date": "2017-05-18T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585af7" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8db" },
+    "userId": { "$oid": "59e1d53db5cb6b00a87cf682" },
+    "title": "Nice clean room",
+    "content":
+      "The treehouse was our little oasis. We relaxed a lot on our terrace sourrounded by green lush nature. Made was a great host and Gusti a responsible driver. Balian Beach is a little surf and hippie/hipster place with a good vibe. Surf lessons and yoga can be found at the beach, nice restaurants as well. Our favourite was Tekor Café just 3 min walk away. At the treehouse we had a nice massage, just ask Made, he'll arrange it for you! If you are looking for a time out to recharge your batteries, don't mind little crawlers in the trees, and want to stay in a very special place admits the green nature close to the beach, this is the place to go. I would come back!!",
+    "rating": 3,
+    "date": { "$date": "2017-12-03T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585af8" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8df" },
+    "userId": { "$oid": "59e0725aca0672063818a2d1" },
+    "title": "Very small but clean room",
+    "content":
+      "Amazing sanctuary in the heart of the desert. Rustic cabin with a beautiful backdrop of nature and everything you need. Loved the outdoor shower and home interior. Only thing I missed was indoor toilet but it's part of the experience!",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585af9" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8e0" },
+    "userId": { "$oid": "59e0725aca0672063818a2cf" },
+    "title": "Very small but clean room",
+    "content":
+      "We had a fantastic stay in Tomeu's house. The house was very clean and had all the furniture. The surrounding area is nice and very quiet to relax and enjoy. The situation in the centre of the island is perfect to access all the points of interest. A great thank you to Tomeu for his warm welcome and tips!",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585afa" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8da" },
+    "userId": { "$oid": "59e0725aca0672063818a2cd" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "Beautiful room in a quiet neighborhood atop the hill, about a 25 min walk to Plaza Sotomayor. Nina is a wonderful, warm woman who offered us directions and suggestions about things to do in the city and woke us up with breakfast and coffee every day. Would recommend this place to couples, would not recommend for anyone with cat allergies.",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585afb" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8dd" },
+    "userId": { "$oid": "59e0725aca0672063818a2cd" },
+    "title": "Very small but clean room",
+    "content":
+      "What can I say, it is a castle. The views are beautiful, the building amazing, they offer food and drink at great prices. We got to meet great people hanging out in the music room. We loved everything about this place!",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585afc" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8de" },
+    "userId": { "$oid": "59e0725aca0672063818a2d1" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "Lovely view, clean, location is perfect. And this place has an elevator(It's very important to me). Host are very nice. Wanna recommand to use this place to everyone!",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585afd" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8e0" },
+    "userId": { "$oid": "59e0725aca0672063818a2ca" },
+    "title": "Very small but clean room",
+    "content":
+      "Ivana\u0026 Lorenzo place was amazing! Just as described. They were very easy to communicate with. 2 minutes down the stairs to the waterfront, restaurants and shops. And of course the best view in Hvar. Highly recommended!!",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585afe" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8dc" },
+    "userId": { "$oid": "59e0725aca0672063818a2cf" },
+    "title": "Very small but clean room",
+    "content":
+      "Thank you both for your warmth and welcoming. We really enjoyed our time at your place and all the staff was extremely lovely. I recommend this place to anyone who wants to experience local cuban culture while having a little paradise to rest in at the end of the day. xxx",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585aff" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8da" },
+    "userId": { "$oid": "59e1d53db5cb6b00a87cf682" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "A perfect hideaway with views and peace and quiet. Make sure you enjoy the trails and parks in the area as they are unforgettable. The cabin is perfect for two and can’t be beat.",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585b00" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8de" },
+    "userId": { "$oid": "59e0725aca0672063818a2d3" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "Quite a unique place to stay! Fantastic view, easily accessed, and quite secure. We enjoyed chatting with guests on neighboring boats, and always good to spend time in Charleston!",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585b01" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8df" },
+    "userId": { "$oid": "59e0725aca0672063818a2cb" },
+    "title": "Very small but clean room",
+    "content":
+      "Roxana was very lovely to meet me at the accomodation a bit earlier then what I planned for \u0026 gave me wonderful tips on what to see and do! The place is cozy for 1 but has everything I needed for a comfortable stay.",
+    "rating": 3,
+    "date": { "$date": "2017-12-18T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585b02" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8d9" },
+    "userId": { "$oid": "59e0725aca0672063818a2d2" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "Clean; has bathroom, living room and an open kitchen; has everything you need; nearby there is a market where you can buy food, fruits, vegetables, fish, etc. Location is great, not far from the subway while very quiet.",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "59ede5b4f011a03db8585b04" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8db" },
+    "userId": { "$oid": "59e0725aca0672063818a2ce" },
+    "title": "Nice couple, good vibes",
+    "content":
+      "Cristina is as gracious as her home is spacious. Both the decor and landscaping are artfully designed. Her home truly felt like an oasis. In addition, Cristina knows a lot about the city, and the tour that we took with her was fantastic. Overall, A+ stay!",
+    "rating": 4,
+    "date": { "$date": "2017-05-24T21:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "5a158668b8d42a34409c2485" },
+    "locationId": { "$oid": "5a157fafb8d42a34409c2481" },
+    "userId": "5a15873db8d42a34409c2487",
+    "title": "",
+    "content":
+      "Dan and Alex's apartment is a lovely stay for someone looking to go to Edinburgh. The bedroom was clean with a comfy bed, and the bathroom clean with a powerful shower, both of which are definitely required! The apartment is decorated in a manner that makes it feel like a home away from home, certainly not the clinical nature of a hotel room. The boys were both happy to help, with fast responses to my messages, recommendations about a local food market, and flexibility around the check in/out time. If you're worried about the fact that the apartment is not in the centre of town, do not be concerned. There is a bus a minutes walk away that takes you straight into town and takes a little over 30mins. Overall the apartment and hosts are both excellent and I would recommend this as a place to stay for anyone looking to go to Edinburgh.",
+    "rating": 4,
+    "date": { "$date": "2007-02-07T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "5a15ab9bb8d42a34409c248a" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8d9" },
+    "userId": { "$oid": "5a15ab59b8d42a34409c2489" },
+    "title": "",
+    "content":
+      "August check-in before we arrive and a couple of times during our stay to ensure everything went alright, he organised check-in and check-out in the most convenient way and sent us tips on the city. The flat is well located and impeccably clean. We had a great time!",
+    "rating": 5,
+    "date": { "$date": "2017-01-10T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "5a15aca5b8d42a34409c248d" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8d9" },
+    "userId": { "$oid": "5a15ad1bb8d42a34409c248e" },
+    "title": "",
+    "content":
+      "I had a mixed experience of Danty and August's place. Whilst August was lovely to deal with (he gave great recommendations) and the place was clean and very well located, the apartment looks nothing like it does on the pictures. The furniture and styling is completely different and the pictures on the listing misrepresent what you actually get. Some of the amenities listed (e.g., washer and dryer) were also not in the apartment.",
+    "rating": 2,
+    "date": { "$date": "2017-11-07T22:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "5a15aeb5b8d42a34409c2490" },
+    "locationId": { "$oid": "59e1d5a57367bc2ddcfee8d9" },
+    "userId": { "$oid": "5a15aeecb8d42a34409c2492" },
+    "title": "",
+    "content":
+      "Thank you for hosting me in your place. Everything was as described. Great location, apartment newly renovated. August is a very kind warmhearted person available to help if you need anything.",
+    "rating": 4,
+    "date": { "$date": "2017-04-20T21:00:00.000Z" }
+  }
+]
