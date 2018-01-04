@@ -1,0 +1,10 @@
+to export a collection to a json:
+
+from C:\Program Files\MongoDB\Server\3.4\bin> cmd
+mongoexport --db mockbnb --collection users --jsonArray
+
+to import a collection to a json:
+mongoimport --db mockbnb --collection users --file users.json --jsonArray
+
+to enter the mongoshell from ubuntu terminal: 
+mongo --host 127.0.0.1:27017

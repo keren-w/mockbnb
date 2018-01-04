@@ -8,7 +8,7 @@ export default () => (
     <div>
         <LocationsHeader>
             <h2>Featured Locations</h2>
-            <FilterMenu />
+            {/* <FilterMenu /> */}
         </LocationsHeader>
         <LocationsView />
     </div>
